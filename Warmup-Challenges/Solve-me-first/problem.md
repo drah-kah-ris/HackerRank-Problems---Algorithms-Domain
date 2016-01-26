@@ -1,0 +1,1 @@
+Let's start simple. Check out the code template below which you can submit in your favorite programming language.The function solveMeFirst returns the sum of the two integers passed as input parameters. 
